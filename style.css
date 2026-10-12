@@ -695,7 +695,7 @@ nav>div:last-child a:hover {
 
 .projects-page .projects-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
 
@@ -2317,40 +2317,3 @@ nav>div:last-child a:hover {
 
 }
 
-
-/* nav .nav-links {
-        display: none;
-        position: absolute;
-        top: 59px;
-        left: 140px;
-        width: 70%;
-        flex-direction: column;
-        gap: 0;
-        background-color: #27272a;
-        padding: 10px 15px;
-        border-bottom: 1px solid #555;
-    } */
-
-/* nav .nav-links.show {
-        display: flex;
-    }  */
-
-/* nav .nav-links a {
-        padding: 15px 0;
-        border-bottom: 1px solid #3f3f46;
-    }
-
-    nav .nav-links a:last-child {
-        border-bottom: none;
-    }
-
-    nav .nav-links a:hover {
-        color: #a855f7;
-    }
-
-    .ham {
-        display: flex;
-        cursor: pointer;
-    }
-
-} */
