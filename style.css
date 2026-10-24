@@ -43,16 +43,13 @@ nav {
 /* RAVD TECH LOGO */
 
 nav h2 {
-    color: var(--text-primary);
+    color: var(--accent);
     font-size: 24px;
     font-weight: 700;
     white-space: nowrap;
     margin: 0;
 }
 
-nav h2 .s {
-    color: var(--accent);
-}
 
 /* NAVIGATION LINKS */
 
